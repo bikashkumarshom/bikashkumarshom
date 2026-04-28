@@ -189,9 +189,9 @@ Ready to build something extraordinary? I'm excited to discuss your project.
 
 ### 🔗 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourprofile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=globe&logoColor=white)](https://yourportfolio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bikashkumarshom)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bikashshom-me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=globe&logoColor=white)](https://bikash.tjlbd.com/)
 
 ---
 
