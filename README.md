@@ -6,7 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-bikash%40tjlbd.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bikash@tjlbd.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-FF6B35?style=for-the-badge&logo=globe&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-FF6B35?style=for-the-badge&logo=globe&logoColor=white)](https://bikash.tjlbd.com/)
 
 *Where Code Meets Strategy — Building Digital Experiences That Matter* 💻
 
